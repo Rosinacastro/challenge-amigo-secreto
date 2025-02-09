@@ -13,6 +13,12 @@
 </div>
 
 #Time by
+
+! [<img.loading="lazy"_ src="https://avatars.github"]
+<div>
+   <img sr="https://C:\Users\ROSIC\OneDrive\Imagens\Imagens da Câmera\AirBrush_20200420084415.jpg">
+</div>
+
 <div>
    <a href="https://www.linkedin.com/in/rosina-castro-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
